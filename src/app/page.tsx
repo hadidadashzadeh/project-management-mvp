@@ -1,1 +1,1 @@
-export default function Home(){return <h1>Project Management Demo</h1>}
+export default function Home(){return <h1>MVP v2</h1>}

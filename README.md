@@ -1,3 +1,1 @@
-# Project Management Full Demo
-
-Demo project structure for Next.js + Supabase.
+# Project Management MVP v2

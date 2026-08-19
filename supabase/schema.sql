@@ -1,1 +1,1 @@
-create table projects(id uuid primary key, name text);
+create table projects(id uuid primary key,name text);
