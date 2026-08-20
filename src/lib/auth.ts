@@ -1,1 +1,1 @@
-export async function requireAuth(){return true}
+export async function requireAuth(){return true;}
